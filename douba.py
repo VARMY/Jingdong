@@ -82,7 +82,9 @@ def comment(goods_id):
         # driver.implicitly_wait(30)
         # yield comment_user
 
-
+'''
+BTSARMY
+'''
 
 
 def main():
